@@ -49,8 +49,13 @@ This document outlines the steps to load data and apply transformations using Po
 
 ---
 
-## **measure_list**
+## **Measures_List**
 
+- You can refer this Measures List for the more All of measurement which taken by combination of table and make it formula based for Analytics Data.
+- It will be helpful to understand the formula of used in PowerBI Dashboard.
+  
+- https://github.com/laxdippatel/Hospitality_Management_Analytics/blob/main/measures_list.md
+  
 ## **Future Steps**
 
 - Ensure proper validation of transformations applied in Power Query.
