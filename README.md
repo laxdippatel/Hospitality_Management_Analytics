@@ -49,6 +49,8 @@ This document outlines the steps to load data and apply transformations using Po
 
 ---
 
+## **measure_list**
+
 ## **Future Steps**
 
 - Ensure proper validation of transformations applied in Power Query.
