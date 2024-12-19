@@ -2,6 +2,8 @@
 Hospitality Management Analytics : Power BI Project for Optimized Data Insights and Visualizations
 
 
+![image](https://github.com/user-attachments/assets/48d39d95-6452-4df5-b3a9-e115794a991a)
+
 
 
 
